@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-23",
+  "prompts": [
+    "Name a car brand",
+    "Name a book series (1,000+ Goodreads ratings on any one book)",
+    "Name an area in an airport",
+    "Name a weapon you throw or a weapon that launches a projectile (no guns)",
+    "Name a restaurant chain where you build your own bowl",
+    "Name a chronic medical condition",
+    "Name a part of the field or court in basketball, soccer, American football, cricket, or rugby"
+  ],
+  "source": "https://krillion.io"
+}
